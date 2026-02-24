@@ -1,7 +1,7 @@
 # Device Check — [Yousra mansour]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
+**Date completed:** [2026-02-22]
 **GitHub username:** [yousra-mansour]
 
 ---
