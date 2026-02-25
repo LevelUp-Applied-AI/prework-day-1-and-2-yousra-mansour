@@ -28,3 +28,13 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+I am a backend developer passionate about learning and improving my technical skills. This repository contains my practice work, exercises, and projects as part of my applied AI learning journey.
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/yousra-mansour-prework.git
+cd yousra-mansour-prework
