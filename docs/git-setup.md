@@ -1,4 +1,4 @@
-# Git Setup Log — [Your Name]
+# Git Setup Log — [yousra mansour]
 
 **Program:** AI.SPIRE Pre-Work
 **Date completed:** [2025-02-25]
