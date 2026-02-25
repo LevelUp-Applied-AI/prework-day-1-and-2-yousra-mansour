@@ -31,10 +31,10 @@ Configure the pull request:
 
 ## About
 
-[One paragraph: who you are and what this repository is for.]
+I am a backend developer passionate about learning and improving my technical skills. This repository contains my practice work, exercises, and projects as part of my applied AI learning journey.
 
 ## Setup
 
 ```bash
-git clone https://github.com/LevelUp-Applied-AI/<your-username>-prework.git
-cd <your-username>-prework
+git clone https://github.com/LevelUp-Applied-AI/yousra-mansour-prework.git
+cd yousra-mansour-prework
