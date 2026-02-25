@@ -39,3 +39,7 @@ Run `git config --list` in your terminal and fill in your configured values:
 ## Clone Verification
 
 After cloning, output of `git status` from inside your repo:
+On branch pr-01-git-setup
+Your branch is up to date with 'origin/pr-01-git-setup'.
+
+nothing to commit, working tree clean
